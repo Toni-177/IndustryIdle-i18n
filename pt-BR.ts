@@ -1541,9 +1541,9 @@ export const PT_BR = {
     InputCapacityOverride: "Substituição de capacidade de entrada",
     InputCapacityOverrideDesc:
         "Para cada ciclo de produção, transporte %{percent} dos recursos necessários para a produção",
-    PumpkinSpiceLatte: "Pumpkin Spice Latte",
-    PumpkinPie: "Pumpkin Pie",
-    QuantumComputerLab: "Quantum Computer Lab",
-    QuantumComputer: "Quantum Computer",
+    PumpkinSpiceLatte: "Pumpkin spice latte",
+    PumpkinPie: "Torta de abóbora",
+    QuantumComputerLab: "Laboratório de Computação Quântica",
+    QuantumComputer: "Computador Quântico",
     TVStudioPlus: "TV Studio+",
 };
