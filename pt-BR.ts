@@ -1163,7 +1163,7 @@ export const PT_BR = {
     FarmlandDesc: "Produza colheitas em cima de um ladrilho de água",
     Storage: "Armazém",
     Rice: "Arroz",
-    Corn: "Pipoca",
+    Corn: "Milho",
     Wheat: "Trigo",
     Soybean: "Soja",
     Sugarcane: "Cana de açúcar",
